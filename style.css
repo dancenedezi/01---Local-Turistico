@@ -37,14 +37,17 @@ p, figcaption, ul li::marker, footer {
 }
 
 h1 {
+  font-size: 36px;
   margin-top: 8px;
 }
 
 h2 {
+  font-size: 32px;
   margin-bottom: 8px;
 }
 
 h3 {
+  font-size: 28px;
   padding: 20px 0 4px 8px;
 }
 
